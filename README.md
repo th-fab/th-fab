@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- ⚡ Fun fact: theres more planes in the sea than submarines in the sky!
+
 <!--
 **thien-fab/thien-fab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
